@@ -80,13 +80,13 @@ public class Thread1 extends Thread{ // implements Runnable {
             Thread.sleep(1000);
             System.out.print(" sol");
             fp.play(filePaths.get(2)); 
-            Thread.sleep(4000);
+            Thread.sleep(3000);
             System.out.print(" mi");
             fp.play(filePaths.get(1)); 
             Thread.sleep(1000);           
             System.out.print(" mi");
             fp.play(filePaths.get(1));
-            Thread.sleep(2000);
+            Thread.sleep(3000);
             System.out.print(" sol");
             fp.play(filePaths.get(2)); 
             Thread.sleep(1000);
